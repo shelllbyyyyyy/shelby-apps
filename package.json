@@ -12,6 +12,7 @@
     "@shelby/eslint-config": "workspace:*",
     "@shelby/typescript-config": "workspace:*",
     "@shelby/db": "workspace:*",
+    "@shelby/supabase": "workspace:*",
     "prettier": "^3.1.1",
     "turbo": "latest"
   },
